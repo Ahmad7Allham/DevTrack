@@ -22,11 +22,12 @@ A job application tracker built with Next.js, TypeScript and Tailwind CSS.
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://devtrackk.netlify.app/
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="500" height="500" alt="DevTrack" src="https://github.com/user-attachments/assets/1d9f55f5-6f8b-44e4-8bd0-e3a7ba7d9d95" />
+
 
 ## Installation
 
